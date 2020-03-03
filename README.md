@@ -1,2 +1,2 @@
 # COSC-146
-Project
+This is where I shall be creating my project for this class!
